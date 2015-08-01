@@ -1,0 +1,55 @@
+MOTIBU DATA TYPES
+
+CLIENT
+	APP ID - int
+	SECRET - string
+	PAYMENT INFO - mixed
+
+	ACL:
+		SUPER ADMIN - *
+		CLIENT ADMIN - update (partial)
+
+COINS
+	BELONGS TO COMPANY - 1to1
+
+	ACL:
+		COMPANY ADMIN - buy
+		AGENCY ADMIN - buy
+
+SUBSCRIPTIONS
+	JOBS COUNT - int
+	COINS NEEDED - int
+	TABBED PROFILE - bool
+	AGENTS COUNT - int
+	BELONGS TO COMPANY - 1to1
+
+	ACL:
+		CLIENT ADMIN - *
+		COMPANY ADMIN - read/buy
+		AGENCY ADMIN - read/buy
+
+BLOG POSTS
+	BELONGS TO CLIENT - 1to1
+	BELONGS TO AGENCY - 1to1
+	BELONGS TO COMPANY? - 1to1
+
+	ACL:
+		CLIENT ADMIN - *
+		COMPANY ADMIN - *
+
+PROFILES
+	TABBED - bool
+	BELONGS TO COMPANY - 1to1
+
+AGENCY
+	HAS ONE PROFILE
+	HAS MANY AGENTS
+
+	ACL:
+		AGENCY ADMIN - agency.assign_company. agency.crud
+
+AGENT
+	USER WITH ROLE - AGENT
+
+	ACL:
+		AGENCY ADMIN - agent.assign_job, agent.assign_company

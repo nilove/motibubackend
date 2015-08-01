@@ -1,0 +1,587 @@
+Agriculture, forestry and fishing
+Crop and animal production, hunting and related service activities
+Growing of non-perennial crops
+Growing of cereals (except rice), leguminous crops and oil seeds
+Growing of rice
+Growing of vegetables and melons, roots and tubers
+Growing of sugar cane
+Growing of tobacco
+Growing of fibre crops
+Growing of other non-perennial crops
+Growing of perennial crops
+Growing of grapes
+Growing of tropical and subtropical fruits
+Growing of citrus fruits
+Growing of pome fruits and stone fruits
+Growing of other tree and bush fruits and nuts
+Growing of oleaginous fruits
+Growing of beverage crops
+Growing of spices, aromatic, drug and pharmaceutical crops
+Growing of other perennial crops
+Plant propagation
+Animal production
+Raising of cattle and buffaloes
+Raising of horses and other equines
+Raising of camels and camelids
+Raising of sheep and goats
+Raising of swine/pigs
+Raising of poultry
+Raising of other animals
+Mixed farming
+Support activities to agriculture and post-harvest crop activities
+Support activities for crop production
+Support activities for animal production
+Post-harvest crop activities
+Seed processing for propagation
+Hunting, trapping and related service activities
+Forestry and logging
+Silviculture and other forestry activities
+Logging
+Gathering of non-wood forest products
+Support services to forestry
+Fishing and aquaculture
+Fishing
+Marine fishing
+Freshwater fishing
+Aquaculture
+Marine aquaculture
+Freshwater aquaculture
+Mining and quarrying
+Mining of coal and lignite
+Mining of hard coal
+Mining of lignite
+Extraction of crude petroleum and natural gas
+Extraction of crude petroleum
+Extraction of natural gas
+Mining of metal ores
+Mining of iron ores
+Mining of non-ferrous metal ores
+Mining of uranium and thorium ores
+Mining of other non-ferrous metal ores
+Other mining and quarrying
+Quarrying of stone, sand and clay
+Mining and quarrying n.e.c.
+Mining of chemical and fertilizer minerals
+Extraction of peat
+Extraction of salt
+Other mining and quarrying n.e.c.
+Mining support service activities
+Support activities for petroleum and natural gas extraction
+Support activities for other mining and quarrying
+Manufacturing
+Manufacture of food products
+Processing and preserving of meat
+Processing and preserving of fish, crustaceans and molluscs
+Processing and preserving of fruit and vegetables
+Manufacture of vegetable and animal oils and fats
+Manufacture of dairy products
+Manufacture of grain mill products, starches and starch products
+Manufacture of grain mill products
+Manufacture of starches and starch products
+Manufacture of other food products
+Manufacture of bakery products
+Manufacture of sugar
+Manufacture of cocoa, chocolate and sugar confectionery
+Manufacture of macaroni, noodles, couscous and similar farinaceous products
+Manufacture of prepared meals and dishes
+Manufacture of other food products n.e.c.
+Manufacture of prepared animal feeds
+Manufacture of beverages
+Distilling, rectifying and blending of spirits
+Manufacture of wines
+Manufacture of malt liquors and malt
+Manufacture of soft drinks; production of mineral waters and other bottled waters
+Manufacture of tobacco products
+Manufacture of textiles
+Spinning, weaving and finishing of textiles
+Preparation and spinning of textile fibres
+Weaving of textiles
+Finishing of textiles
+Manufacture of other textiles
+Manufacture of knitted and crocheted fabrics
+Manufacture of made-up textile articles, except apparel
+Manufacture of carpets and rugs
+Manufacture of cordage, rope, twine and netting
+Manufacture of other textiles n.e.c.
+Manufacture of wearing apparel
+Manufacture of wearing apparel, except fur apparel
+Manufacture of articles of fur
+Manufacture of knitted and crocheted apparel
+Manufacture of leather and related products
+Tanning and dressing of leather; manufacture of luggage, handbags, saddlery and harness; dressing and dyeing of fur
+Tanning and dressing of leather; dressing and dyeing of fur
+Manufacture of luggage, handbags and the like, saddlery and harness
+Manufacture of footwear
+Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials
+Sawmilling and planing of wood
+Manufacture of products of wood, cork, straw and plaiting materials
+Manufacture of veneer sheets and wood-based panels
+Manufacture of builders' carpentry and joinery
+Manufacture of wooden containers
+Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials
+Manufacture of paper and paper products
+Manufacture of pulp, paper and paperboard
+Manufacture of corrugated paper and paperboard and of containers of paper and paperboard
+Manufacture of other articles of paper and paperboard
+Printing and reproduction of recorded media
+Printing and service activities related to printing
+Printing
+Service activities related to printing
+Reproduction of recorded media
+Manufacture of coke and refined petroleum products
+Manufacture of coke oven products
+Manufacture of refined petroleum products
+Manufacture of chemicals and chemical products
+Manufacture of basic chemicals, fertilizers and nitrogen compounds, plastics and synthetic rubber in primary forms
+Manufacture of basic chemicals
+Manufacture of fertilizers and nitrogen compounds
+Manufacture of plastics and synthetic rubber in primary forms
+Manufacture of other chemical products
+Manufacture of pesticides and other agrochemical products
+Manufacture of paints, varnishes and similar coatings, printing ink and mastics
+Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations
+Manufacture of other chemical products n.e.c.
+Manufacture of man-made fibres
+Manufacture of basic pharmaceutical products and pharmaceutical preparations
+Manufacture of pharmaceuticals, medicinal chemical and botanical products
+Manufacture of rubber and plastics products
+Manufacture of rubber products
+Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres
+Manufacture of other rubber products
+Manufacture of plastics products
+Manufacture of other non-metallic mineral products
+Manufacture of glass and glass products
+Manufacture of non-metallic mineral products n.e.c.
+Manufacture of refractory products
+Manufacture of clay building materials
+Manufacture of other porcelain and ceramic products
+Manufacture of cement, lime and plaster
+Manufacture of articles of concrete, cement and plaster
+Cutting, shaping and finishing of stone
+Manufacture of other non-metallic mineral products n.e.c.
+Manufacture of basic metals
+Manufacture of basic iron and steel
+Manufacture of basic precious and other non-ferrous metals
+Casting of metals
+Casting of iron and steel
+Casting of non-ferrous metals
+Manufacture of fabricated metal products, except machinery and equipment
+Manufacture of structural metal products, tanks, reservoirs and steam generators
+Manufacture of structural metal products
+Manufacture of tanks, reservoirs and containers of metal
+Manufacture of steam generators, except central heating hot water boilers
+Manufacture of weapons and ammunition
+Manufacture of other fabricated metal products; metalworking service activities
+Forging, pressing, stamping and roll-forming of metal; powder metallurgy
+Treatment and coating of metals; machining
+Manufacture of cutlery, hand tools and general hardware
+Manufacture of other fabricated metal products n.e.c.
+Manufacture of computer, electronic and optical products
+Manufacture of electronic components and boards
+Manufacture of computers and peripheral equipment
+Manufacture of communication equipment
+Manufacture of consumer electronics
+Manufacture of measuring, testing, navigating and control equipment; watches and clocks
+Manufacture of measuring, testing, navigating and control equipment
+Manufacture of watches and clocks
+Manufacture of irradiation, electromedical and electrotherapeutic equipment
+Manufacture of optical instruments and photographic equipment
+Manufacture of magnetic and optical media
+Manufacture of electrical equipment
+Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus
+Manufacture of batteries and accumulators
+Manufacture of wiring and wiring devices
+Manufacture of fibre optic cables
+Manufacture of other electronic and electric wires and cables
+Manufacture of wiring devices
+Manufacture of electric lighting equipment
+Manufacture of domestic appliances
+Manufacture of other electrical equipment
+Manufacture of machinery and equipment n.e.c.
+Manufacture of general-purpose machinery
+Manufacture of engines and turbines, except aircraft, vehicle and cycle engines
+Manufacture of fluid power equipment
+Manufacture of other pumps, compressors, taps and valves
+Manufacture of bearings, gears, gearing and driving elements
+Manufacture of ovens, furnaces and furnace burners
+Manufacture of lifting and handling equipment
+Manufacture of office machinery and equipment (except computers and peripheral equipment)
+Manufacture of power-driven hand tools
+Manufacture of other general-purpose machinery
+Manufacture of special-purpose machinery
+Manufacture of agricultural and forestry machinery
+Manufacture of metal-forming machinery and machine tools
+Manufacture of machinery for metallurgy
+Manufacture of machinery for mining, quarrying and construction
+Manufacture of machinery for food, beverage and tobacco processing
+Manufacture of machinery for textile, apparel and leather production
+Manufacture of other special-purpose machinery
+Manufacture of motor vehicles, trailers and semi-trailers
+Manufacture of motor vehicles
+Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
+Manufacture of parts and accessories for motor vehicles
+Manufacture of other transport equipment
+Building of ships and boats
+Building of ships and floating structures
+Building of pleasure and sporting boats
+Manufacture of railway locomotives and rolling stock
+Manufacture of air and spacecraft and related machinery
+Manufacture of military fighting vehicles
+Manufacture of transport equipment n.e.c.
+Manufacture of motorcycles
+Manufacture of bicycles and invalid carriages
+Manufacture of other transport equipment n.e.c.
+Manufacture of furniture
+Other manufacturing
+Manufacture of jewellery, bijouterie and related articles
+Manufacture of jewellery and related articles
+Manufacture of imitation jewellery and related articles
+Manufacture of musical instruments
+Manufacture of sports goods
+Manufacture of games and toys
+Manufacture of medical and dental instruments and supplies
+Other manufacturing n.e.c.
+Repair and installation of machinery and equipment
+Repair of fabricated metal products, machinery and equipment
+Repair of fabricated metal products
+Repair of machinery
+Repair of electronic and optical equipment
+Repair of electrical equipment
+Repair of transport equipment, except motor vehicles
+Repair of other equipment
+Installation of industrial machinery and equipment
+Electricity, gas, steam and air conditioning supply
+Electric power generation, transmission and distribution
+Manufacture of gas; distribution of gaseous fuels through mains
+Steam and air conditioning supply
+Water supply; sewerage, waste management and remediation activities
+Water collection, treatment and supply
+Sewerage
+Waste collection, treatment and disposal activities; materials recovery
+Waste collection
+Collection of non-hazardous waste
+Collection of hazardous waste
+Waste treatment and disposal
+Treatment and disposal of non-hazardous waste
+Treatment and disposal of hazardous waste
+Materials recovery
+Remediation activities and other waste management services
+Construction
+Construction of buildings
+Civil engineering
+Construction of roads and railways
+Construction of utility projects
+Construction of other civil engineering projects
+Specialized construction activities
+Demolition and site preparation
+Demolition
+Site preparation
+Electrical, plumbing and other construction installation activities
+Electrical installation
+Plumbing, heat and air-conditioning installation
+Other construction installation
+Building completion and finishing
+Other specialized construction activities
+Wholesale and retail trade; repair of motor vehicles and motorcycles
+Wholesale and retail trade and repair of motor vehicles and motorcycles
+Sale of motor vehicles
+Maintenance and repair of motor vehicles
+Sale of motor vehicle parts and accessories
+Sale, maintenance and repair of motorcycles and related parts and accessories
+Wholesale trade, except of motor vehicles and motorcycles
+Wholesale on a fee or contract basis
+Wholesale of agricultural raw materials and live animals
+Wholesale of food, beverages and tobacco
+Wholesale of household goods
+Wholesale of textiles, clothing and footwear
+Wholesale of other household goods
+Wholesale of machinery, equipment and supplies
+Wholesale of computers, computer peripheral equipment and software
+Wholesale of electronic and telecommunications equipment and parts
+Wholesale of agricultural machinery, equipment and supplies
+Wholesale of other machinery and equipment
+Other specialized wholesale
+Wholesale of solid, liquid and gaseous fuels and related products
+Wholesale of metals and metal ores
+Wholesale of construction materials, hardware, plumbing and heating equipment and supplies
+Wholesale of waste and scrap and other products n.e.c.
+Non-specialized wholesale trade
+Retail trade, except of motor vehicles and motorcycles
+Retail sale in non-specialized stores
+Retail sale in non-specialized stores with food, beverages or tobacco predominating
+Other retail sale in non-specialized stores
+Retail sale of food, beverages and tobacco in specialized stores
+Retail sale of food in specialized stores
+Retail sale of beverages in specialized stores
+Retail sale of tobacco products in specialized stores
+Retail sale of automotive fuel in specialized stores
+Retail sale of information and communications equipment in specialized stores
+Retail sale of computers, peripheral units, software and telecommunications equipment in specialized stores
+Retail sale of audio and video equipment in specialized stores
+Retail sale of other household equipment in specialized stores
+Retail sale of textiles in specialized stores
+Retail sale of hardware, paints and glass in specialized stores
+Retail sale of carpets, rugs, wall and floor coverings in specialized stores
+Retail sale of electrical household appliances, furniture, lighting equipment and other household articles in specialized stores
+Retail sale of cultural and recreation goods in specialized stores
+Retail sale of books, newspapers and stationary in specialized stores
+Retail sale of music and video recordings in specialized stores
+Retail sale of sporting equipment in specialized stores
+Retail sale of games and toys in specialized stores
+Retail sale of other goods in specialized stores
+Retail sale of clothing, footwear and leather articles in specialized stores
+Retail sale of pharmaceutical and medical goods, cosmetic and toilet articles in specialized stores
+Other retail sale of new goods in specialized stores
+Retail sale of second-hand goods
+Retail sale via stalls and markets
+Retail sale via stalls and markets of food, beverages and tobacco products
+Retail sale via stalls and markets of textiles, clothing and footwear
+Retail sale via stalls and markets of other goods
+Retail trade not in stores, stalls or markets
+Retail sale via mail order houses or via Internet
+Other retail sale not in stores, stalls or markets
+Transportation and storage
+Land transport and transport via pipelines
+Transport via railways
+Passenger rail transport, interurban
+Freight rail transport
+Other land transport
+Urban and suburban passenger land transport
+Other passenger land transport
+Freight transport by road
+Transport via pipeline
+Water transport
+Sea and coastal water transport
+Sea and coastal passenger water transport
+Sea and coastal freight water transport
+Inland water transport
+Inland passenger water transport
+Inland freight water transport
+Air transport
+Passenger air transport
+Freight air transport
+Warehousing and support activities for transportation
+Warehousing and storage
+Support activities for transportation
+Service activities incidental to land transportation
+Service activities incidental to water transportation
+Service activities incidental to air transportation
+Cargo handling
+Other transportation support activities
+Postal and courier activities
+Postal activities
+Courier activities
+Accommodation and food service activities
+Accommodation
+Short term accommodation activities
+Camping grounds, recreational vehicle parks and trailer parks
+Other accommodation
+Food and beverage service activities
+Restaurants and mobile food service activities
+Event catering and other food service activities
+Event catering
+Other food service activities
+Beverage serving activities
+Information and communication
+Publishing activities
+Publishing of books, periodicals and other publishing activities
+Book publishing
+Publishing of directories and mailing lists
+Publishing of newspapers, journals and periodicals
+Other publishing activities
+Software publishing
+Motion picture, video and television programme production, sound recording and music publishing activities
+Motion picture, video and television programme activities
+Motion picture, video and television programme production activities
+Motion picture, video and television programme post-production activities
+Motion picture, video and television programme distribution activities
+Motion picture projection activities
+Sound recording and music publishing activities
+Programming and broadcasting activities
+Radio broadcasting
+Television programming and broadcasting activities
+Telecommunications
+Wired telecommunications activities
+Wireless telecommunications activities
+Satellite telecommunications activities
+Other telecommunications activities
+Computer programming, consultancy and related activities
+Computer programming activities
+Computer consultancy and computer facilities management activities
+Other information technology and computer service activities
+Information service activities
+Data processing, hosting and related activities; web portals
+Data processing, hosting and related activities
+Web portals
+Other information service activities
+News agency activities
+Other information service activities n.e.c.
+Financial and insurance activities
+Financial service activities, except insurance and pension funding
+Monetary intermediation
+Central banking
+Other monetary intermediation
+Activities of holding companies
+Trusts, funds and similar financial entities
+Other financial service activities, except insurance and pension funding activities
+Financial leasing
+Other credit granting
+Other financial service activities, except insurance and pension funding activities, n.e.c.
+Insurance, reinsurance and pension funding, except compulsory social security
+Insurance
+Life insurance
+Non-life insurance
+Reinsurance
+Pension funding
+Activities auxiliary to financial service and insurance activities
+Activities auxiliary to financial service activities, except insurance and pension funding
+Administration of financial markets
+Security and commodity contracts brokerage
+Other activities auxiliary to financial service activities
+Activities auxiliary to insurance and pension funding
+Risk and damage evaluation
+Activities of insurance agents and brokers
+Other activities auxiliary to insurance and pension funding
+Fund management activities
+Real estate activities
+Real estate activities with own or leased property
+Real estate activities on a fee or contract basis
+Professional, scientific and technical activities
+Legal and accounting activities
+Legal activities
+Accounting, bookkeeping and auditing activities; tax consultancy
+Activities of head offices; management consultancy activities
+Activities of head offices
+Management consultancy activities
+Architectural and engineering activities; technical testing and analysis
+Architectural and engineering activities and related technical consultancy
+Technical testing and analysis
+Scientific research and development
+Research and experimental development on natural sciences and engineering
+Research and experimental development on social sciences and humanities
+Advertising and market research
+Advertising
+Market research and public opinion polling
+Other professional, scientific and technical activities
+Specialized design activities
+Photographic activities
+Other professional, scientific and technical activities n.e.c.
+Veterinary activities
+Administrative and support service activities
+Rental and leasing activities
+Renting and leasing of motor vehicles
+Renting and leasing of personal and household goods
+Renting and leasing of recreational and sports goods
+Renting of video tapes and disks
+Renting and leasing of other personal and household goods
+Renting and leasing of other machinery, equipment and tangible goods
+Leasing of intellectual property and similar products, except copyrighted works
+Employment activities
+Activities of employment placement agencies
+Temporary employment agency activities
+Other human resources provision
+Travel agency, tour operator, reservation service and related activities
+Travel agency and tour operator activities
+Travel agency activities
+Tour operator activities
+Other reservation service and related activities
+Security and investigation activities
+Private security activities
+Security systems service activities
+Investigation activities
+Services to buildings and landscape activities
+Combined facilities support activities
+Cleaning activities
+General cleaning of buildings
+Other building and industrial cleaning activities
+Landscape care and maintenance service activities
+Office administrative, office support and other business support activities
+Office administrative and support activities
+Combined office administrative service activities
+Photocopying, document preparation and other specialized office support activities
+Activities of call centres
+Organization of conventions and trade shows
+Business support service activities n.e.c.
+Activities of collection agencies and credit bureaus
+Packaging activities
+Other business support service activities n.e.c.
+Public administration and defence; compulsory social security
+Administration of the State and the economic and social policy of the community
+General public administration activities
+Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security
+Regulation of and contribution to more efficient operation of businesses
+Provision of services to the community as a whole
+Foreign affairs
+Defence activities
+Public order and safety activities
+Compulsory social security activities
+Education
+Pre-primary and primary education
+Secondary education
+General secondary education
+Technical and vocational secondary education
+Higher education
+Other education
+Sports and recreation education
+Cultural education
+Other education n.e.c.
+Educational support activities
+Human health and social work activities
+Human health activities
+Hospital activities
+Medical and dental practice activities
+Other human health activities
+Residential care activities
+Residential nursing care facilities
+Residential care activities for mental retardation, mental health and substance abuse
+Residential care activities for the elderly and disabled
+Other residential care activities
+Social work activities without accommodation
+Social work activities without accommodation for the elderly and disabled
+Other social work activities without accommodation
+Arts, entertainment and recreation
+Creative, arts and entertainment activities
+Libraries, archives, museums and other cultural activities
+Library and archives activities
+Museums activities and operation of historical sites and buildings
+Botanical and zoological gardens and nature reserves activities
+Gambling and betting activities
+Sports activities and amusement and recreation activities
+Sports activities
+Operation of sports facilities
+Activities of sports clubs
+Other sports activities
+Other amusement and recreation activities
+Activities of amusement parks and theme parks
+Other amusement and recreation activities n.e.c.
+Other service activities
+Activities of membership organizations
+Activities of business, employers and professional membership organizations
+Activities of business and employers membership organizations
+Activities of professional membership organizations
+Activities of trade unions
+Activities of other membership organizations
+Activities of religious organizations
+Activities of political organizations
+Activities of other membership organizations n.e.c.
+Repair of computers and personal and household goods
+Repair of computers and communication equipment
+Repair of computers and peripheral equipment
+Repair of communication equipment
+Repair of personal and household goods
+Repair of consumer electronics
+Repair of household appliances and home and garden equipment
+Repair of footwear and leather goods
+Repair of furniture and home furnishings
+Repair of other personal and household goods
+Other personal service activities
+Washing and (dry-) cleaning of textile and fur products
+Hairdressing and other beauty treatment
+Funeral and related activities
+Other personal service activities n.e.c.
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+Activities of households as employers of domestic personnel
+Undifferentiated goods- and services-producing activities of private households for own use
+Undifferentiated goods-producing activities of private households for own use
+Undifferentiated service-producing activities of private households for own use
+Activities of extraterritorial organizations and bodies

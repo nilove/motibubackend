@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Motibu Email Testing</title>
+</head>
+<body>
+<h2>Thank you for signing up for Motibu. Please confirm your email ID using the following link and start browsing all features of the site.</h2>
+
+    <p>{{ URL::to( $client_base_url.'register/verify/' . $confirmation ) }}.<br/></p>
+</body>
+</html>
